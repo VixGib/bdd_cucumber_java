@@ -1,5 +1,5 @@
 Feature: Basic Arithmetic
-
+// This is where the product owner would specify their requirements and this is what we would be expected to deliver
   Background: A Calculator
     Given a calculator I just turned on
 
